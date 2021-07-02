@@ -1,1 +1,1 @@
-web: gunicorn blog_agro.wsgi --log-file -
+web: gunicorn Crud.wsgi --log-file -
