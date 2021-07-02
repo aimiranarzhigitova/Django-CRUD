@@ -18,7 +18,7 @@ from pathlib import Path
 from datetime import timedelta
 
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
@@ -29,7 +29,7 @@ SECRET_KEY = '^2dxw!6^y=&59@uh=7ot8e5r4!q3=4q-+zpl^n8-8p=*q#cx-b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['crud-project-django-app.herokuapp.com']
 
 # Application definition
 
