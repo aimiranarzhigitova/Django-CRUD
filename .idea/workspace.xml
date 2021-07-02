@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="276d913c-4e1c-4637-98f6-99724f7fe5e7" name="Default Changelist" comment="" />
+    <list default="true" id="276d913c-4e1c-4637-98f6-99724f7fe5e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/grid/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/grid/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/grid/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/post-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/templates/Crud/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/grid/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crud/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +102,8 @@
       <updated>1625207893367</updated>
       <workItem from="1625207904191" duration="29000" />
       <workItem from="1625207945234" duration="1455000" />
-      <workItem from="1625209415006" duration="961000" />
+      <workItem from="1625209415006" duration="2067000" />
+      <workItem from="1625211498896" duration="305000" />
     </task>
     <servers />
   </component>
